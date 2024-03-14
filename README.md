@@ -30,7 +30,7 @@ Then I should be presented with current and future weather conditions for that c
 
 ## Usage
 
-1. Visit the [Weather Dashboard]() webpage.
+1. Visit the [Weather Forecast](https://alecworthen.github.io/weather-forecast/) webpage.
 2. Enter the name of a city in the search field.
 3. Click the "Search" button.
 4. View the current weather conditions and 5-day forecast for the entered city.
